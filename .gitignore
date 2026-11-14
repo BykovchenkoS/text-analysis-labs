@@ -1,11 +1,22 @@
+
 /*
 !/lab1/
 !/lab2/
+!/lab3/
 !/.gitignore
+
+# Лабораторная работа №1
 /lab1/data/
 /lab1/figures/
 /lab1/.ipynb_checkpoints/
 /lab1/defense_notes.md
+
+# Лабораторная работа №2
 /lab2/data/
 /lab2/figures/
 /lab2/.ipynb_checkpoints/
+
+# Лабораторная работа №3
+/lab3/data/
+/lab3/results_lab3/
+/lab3/.ipynb_checkpoints/
